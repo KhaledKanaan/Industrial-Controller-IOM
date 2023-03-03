@@ -3,24 +3,24 @@
 ## Main Controller
 
 ### PCB
-![MC-pcb](Images/Main Controller/MC-pcb.png)
+![MC-pcb](Images/Main-Controller/MC-pcb.png)
 
 ### 3D View
-![MC-3d](Images/Main Controller/MC-3d.png)
+![MC-3d](Images/Main-Controller/MC-3d.png)
 
 ## Digital Input Module
 
-![DIM-pcb](Images/Digital Input Module/DIM-pcb.png)
+![DIM-pcb](Images/Digital-Input-Module/DIM-pcb.png)
 
 ### 3D View
-![DIM-3d](Images/Digital Input Module/DIM-3d.png)
+![DIM-3d](Images/Digital-Input-Module/DIM-3d.png)
 
 ## Digital Output Module
 
-![DOM-pcb](Images/Digital Output Module/DOM-pcb.png)
+![DOM-pcb](Images/Digital-Output-Module/DOM-pcb.png)
 
 ### 3D View
-![DOM-3d](Images/Digital Output Module/DOM-3d.png)
+![DOM-3d](Images/Digital-Output-Module/DOM-3d.png)
 
 ## Implementation
 
